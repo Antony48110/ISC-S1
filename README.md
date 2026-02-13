@@ -1,5 +1,6 @@
 # ISC-S1
-Glosario con definición de términos.
+Glosario con definición de términos
+
 Código embebido:
 Fragmento de HTML, JavaScript u otro lenguaje que permite incrustar contenido o funciones dentro de otro programa o página web, ampliando sus capacidades.
 
