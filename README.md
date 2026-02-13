@@ -1,6 +1,9 @@
 # ISC-S1
 Glosario con definición de términos
 
+Firmware:
+Programa integrado en el hardware que permite al dispositivo arrancar, comunicarse y realizar funciones básicas. Puede ser de bajo nivel, alto nivel o formar parte de subsistemas.
+
 Código embebido:
 Fragmento de HTML, JavaScript u otro lenguaje que permite incrustar contenido o funciones dentro de otro programa o página web, ampliando sus capacidades.
 
