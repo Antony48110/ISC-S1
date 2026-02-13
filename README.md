@@ -2,8 +2,10 @@
 Glosario con definición de términos.
 Código embebido:
 Fragmento de HTML, JavaScript u otro lenguaje que permite incrustar contenido o funciones dentro de otro programa o página web, ampliando sus capacidades.
+
 Software:
 Conjunto de programas, aplicaciones y datos que permiten el funcionamiento de dispositivos electrónicos y la realización de diversas tareas.
+
 Hardware:
 Parte física y tangible de un sistema informático, que incluye componentes mecánicos, eléctricos y electrónicos.
 Datos:
