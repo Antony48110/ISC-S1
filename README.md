@@ -1,5 +1,5 @@
 # ISC-S1
-Glosario con definición de términos
+GLOSARIO
 
 Firmware:
 Programa integrado en el hardware que permite al dispositivo arrancar, comunicarse y realizar funciones básicas. Puede ser de bajo nivel, alto nivel o formar parte de subsistemas.
