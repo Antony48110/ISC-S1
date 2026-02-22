@@ -46,7 +46,7 @@ Sistema accesible mediante internet que permite consultar información, utilizar
 Memoria:
 Componente que almacena temporalmente datos e instrucciones necesarios para el funcionamiento inmediato de la computadora.
 
-CPU:  
+CPU: 
 Este es el componente principal que ejecuta instrucciones y procesa datos; se le conoce como el "cerebro" de la computadora.
 
 Núcleo: 
