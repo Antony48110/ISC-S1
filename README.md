@@ -45,3 +45,33 @@ Sistema accesible mediante internet que permite consultar información, utilizar
 
 Memoria:
 Componente que almacena temporalmente datos e instrucciones necesarios para el funcionamiento inmediato de la computadora.
+
+CPU:  
+Este es el componente principal que ejecuta instrucciones y procesa datos; se le conoce como el "cerebro" de la computadora.
+
+Núcleo: 
+Esta es una unidad de procesamiento dentro de la CPU que puede ejecutar tareas de forma independiente para mejorar el rendimiento.
+
+RAM: 
+Memoria temporal donde se almacenan los datos y programas en uso para un acceso rápido; se borra al apagar la computadora.
+
+SSD: 
+Dispositivo de almacenamiento que utiliza memoria flash, más rápido y duradero que los discos duros tradicionales.
+
+HDD: 
+Dispositivo de almacenamiento magnético con componentes mecánicos que almacena datos de forma permanente.
+
+Sistema operativo: 
+El software principal que gestiona el hardware y permite la ejecución de aplicaciones, como Windows, Linux o macOS.
+
+Controlador: 
+Un programa que permite que el sistema operativo se comunique correctamente con un dispositivo de hardware.
+
+Firmware: 
+Software integrado en un dispositivo que controla su funcionamiento interno básico.
+
+Periférico: 
+Un dispositivo externo o interno que se conecta a la computadora para añadir funcionalidad, como un teclado, un ratón o una impresora.
+
+GPU: 
+Un componente especializado en el procesamiento de gráficos e imágenes, utilizado en videojuegos, diseño y tareas visuales de alto rendimiento.
